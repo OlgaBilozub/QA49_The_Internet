@@ -22,6 +22,13 @@ public class HomePage extends BasePage {
         clickWithJS(alerts, 0, 300);
         return new HomePage(driver);
     }
+@FindBy(linkText = "Frames")
+WebElement frames;
+
+    public FramePage navigateToFrames() {
+        click(frames);
+        return new FramePage(driver);
+    }
 }
 
 
