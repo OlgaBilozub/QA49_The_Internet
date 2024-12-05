@@ -29,6 +29,19 @@ WebElement frames;
         click(frames);
         return new FramePage(driver);
     }
+    @FindBy(css = "[href='/windows']")
+    WebElement newWindow;
+
+    public MultipleWindowsPage selectMultipleWindows() {
+        click(newWindow);
+        return new MultipleWindowsPage(driver);
+    }
+@FindBy(css = "[href='/dropdown']")
+WebElement dropDown;
+    public DropDownPage selectDropDownList() {
+        click(dropDown);
+        return new DropDownPage(driver);
+    }
 }
 
 
