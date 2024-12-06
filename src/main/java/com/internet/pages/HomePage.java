@@ -42,6 +42,27 @@ WebElement dropDown;
         click(dropDown);
         return new DropDownPage(driver);
     }
+    @FindBy(xpath = "//a[contains(text(),'Horizontal Slider')]")
+    WebElement slider;
+
+    public HorizontalSliderPage selectSlider() {
+clickWithJS(slider,0,400);
+        return new HorizontalSliderPage(driver);
+    }
+@FindBy(xpath ="//a[contains(text(),'Drag and Drop')]" )
+WebElement dragDrop;
+
+    public DragAndDropPage selectDragAndDrop() {
+        click(dragDrop);
+        return new DragAndDropPage(driver);
+    }
+@FindBy(xpath = "//a[contains(text(),'Hovers')]")
+WebElement hover;
+
+    public HoversPage selectHovers() {
+        clickWithJS(hover,0,500);
+        return new HoversPage(driver);
+    }
 }
 
 

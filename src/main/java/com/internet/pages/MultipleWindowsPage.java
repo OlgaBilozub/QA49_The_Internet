@@ -16,12 +16,12 @@ public class MultipleWindowsPage extends BasePage {
     @FindBy(css = "[href='/windows/new']")
     WebElement newWindows;
 
-    public MultipleWindowsPage swithMultipleWindows(int i) {
+    public MultipleWindowsPage swithMultipleWindows(int index) {
         click(newWindows);
 
         List<String> tabs = new ArrayList<>(driver.getWindowHandles());
 
-        driver.switchTo().window(tabs.get(i));
+        driver.switchTo().window(tabs.get(index));
 
         return this;
     }
