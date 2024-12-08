@@ -1,0 +1,18 @@
+12:03:16.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\alona\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+12:03:21.665 [main] INFO  com.internet.tests.TestBase - Start test: testMultipleWindows
+12:03:21.720 [main] INFO  com.internet.utils.MyListener - The locator will find By.cssSelector: [href='/windows']
+12:03:21.721 [main] INFO  com.internet.utils.MyListener - ************************************
+12:03:21.788 [main] INFO  com.internet.utils.MyListener - The locator is By.cssSelector: [href='/windows']
+12:03:21.788 [main] INFO  com.internet.utils.MyListener - ********************************
+12:03:22.206 [main] INFO  com.internet.utils.MyListener - The locator will find By.cssSelector: [href='/windows/new']
+12:03:22.206 [main] INFO  com.internet.utils.MyListener - ************************************
+12:03:22.286 [main] INFO  com.internet.utils.MyListener - The locator is By.cssSelector: [href='/windows/new']
+12:03:22.286 [main] INFO  com.internet.utils.MyListener - ********************************
+12:03:22.539 [main] INFO  com.internet.utils.MyListener - The locator will find By.tagName: h3
+12:03:22.539 [main] INFO  com.internet.utils.MyListener - ************************************
+12:03:22.609 [main] INFO  com.internet.utils.MyListener - The locator is By.tagName: h3
+12:03:22.609 [main] INFO  com.internet.utils.MyListener - ********************************
+12:03:22.666 [main] INFO  com.internet.tests.TestBase - Test result: PASSED testMultipleWindows
+12:03:22.667 [main] INFO  com.internet.tests.TestBase - ************************************************************

@@ -1,0 +1,263 @@
+12:11:33.036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\alona\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+12:11:38.595 [main] INFO  com.internet.tests.TestBase - Start test: hoversTest
+12:11:38.715 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'Hovers')]
+12:11:38.715 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:38.801 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'Hovers')]
+12:11:38.802 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:40.235 [Forwarding actions on session 2f1a44c1dc7ae8f4c68a46b4c3c9ad2e to remote] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: .figure
+12:11:40.235 [Forwarding actions on session 2f1a44c1dc7ae8f4c68a46b4c3c9ad2e to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:11:40.320 [Forwarding actions on session 2f1a44c1dc7ae8f4c68a46b4c3c9ad2e to remote] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: .figure
+12:11:40.320 [Forwarding actions on session 2f1a44c1dc7ae8f4c68a46b4c3c9ad2e to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:11:41.483 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: h5
+12:11:41.483 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:41.537 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: h5
+12:11:41.538 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:41.578 [main] INFO  com.internet.tests.TestBase - Test result: PASSED hoversTest
+12:11:41.579 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:11:46.089 [main] INFO  com.internet.tests.TestBase - Start test: alertJsTest
+12:11:46.106 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'JavaScript Alerts')]
+12:11:46.107 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:46.142 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'JavaScript Alerts')]
+12:11:46.142 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:46.542 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: body:nth-child(2) > div.row:nth-child(2)
+12:11:46.543 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:46.585 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: body:nth-child(2) > div.row:nth-child(2)
+12:11:46.586 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:46.653 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //button[contains(text(),'Click for JS Alert')]
+12:11:46.653 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:46.683 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //button[contains(text(),'Click for JS Alert')]
+12:11:46.684 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:46.759 [main] INFO  com.internet.tests.TestBase - Test result: PASSED alertJsTest
+12:11:46.760 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:11:50.569 [main] INFO  com.internet.tests.TestBase - Start test: alertWithConfirmTest
+12:11:50.583 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'JavaScript Alerts')]
+12:11:50.583 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:50.612 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'JavaScript Alerts')]
+12:11:50.612 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:50.992 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: body:nth-child(2) > div.row:nth-child(2)
+12:11:50.992 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:51.011 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: body:nth-child(2) > div.row:nth-child(2)
+12:11:51.012 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:51.091 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //button[contains(text(),'Click for JS Confirm')]
+12:11:51.091 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:51.113 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //button[contains(text(),'Click for JS Confirm')]
+12:11:51.113 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:51.213 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: result
+12:11:51.213 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:51.245 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: result
+12:11:51.245 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:51.265 [main] INFO  com.internet.tests.TestBase - Test result: PASSED alertWithConfirmTest
+12:11:51.265 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:11:54.949 [main] INFO  com.internet.tests.TestBase - Start test: alertWithPromptTest
+12:11:54.963 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'JavaScript Alerts')]
+12:11:54.963 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:54.991 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'JavaScript Alerts')]
+12:11:54.991 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.368 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: body:nth-child(2) > div.row:nth-child(2)
+12:11:55.368 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.391 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: body:nth-child(2) > div.row:nth-child(2)
+12:11:55.391 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.456 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //button[contains(text(),'Click for JS Prompt')]
+12:11:55.456 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.477 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //button[contains(text(),'Click for JS Prompt')]
+12:11:55.477 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.592 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: result
+12:11:55.593 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.620 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: result
+12:11:55.621 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:55.641 [main] INFO  com.internet.tests.TestBase - Test result: PASSED alertWithPromptTest
+12:11:55.641 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:11:59.347 [main] INFO  com.internet.tests.TestBase - Start test: iframeTest
+12:11:59.354 [main] INFO  com.internet.utils.MyListener - The locator will findBy.linkText: Frames
+12:11:59.354 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:59.396 [main] INFO  com.internet.utils.MyListener - The locator isBy.linkText: Frames
+12:11:59.396 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:59.788 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'iFrame')]
+12:11:59.789 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:11:59.810 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'iFrame')]
+12:11:59.811 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:01.284 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: mce_0_ifr
+12:12:01.285 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:01.374 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: mce_0_ifr
+12:12:01.374 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:01.410 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: tinymce
+12:12:01.410 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:01.432 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: tinymce
+12:12:01.432 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:01.470 [main] INFO  com.internet.tests.TestBase - Test result: PASSED iframeTest
+12:12:01.470 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:05.001 [main] INFO  com.internet.tests.TestBase - Start test: dropDownTest
+12:12:05.004 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: [href='/dropdown']
+12:12:05.004 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.034 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: [href='/dropdown']
+12:12:05.034 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.338 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.338 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.358 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.358 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.371 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.371 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.387 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.388 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.401 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.401 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.417 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.417 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.431 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.431 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.445 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.445 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.593 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.593 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.616 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.616 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.624 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.625 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.646 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.646 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.655 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: dropdown
+12:12:05.655 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.671 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: dropdown
+12:12:05.671 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:05.732 [main] INFO  com.internet.tests.TestBase - Test result: PASSED dropDownTest
+12:12:05.733 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:09.510 [main] INFO  com.internet.tests.TestBase - Start test: dragAndDropTest
+12:12:09.512 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'Drag and Drop')]
+12:12:09.514 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:09.542 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'Drag and Drop')]
+12:12:09.542 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:09.887 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //div[@id='column-a']
+12:12:09.887 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:12:09.920 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //div[@id='column-a']
+12:12:09.920 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:12:09.920 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //div[@id='column-b']
+12:12:09.920 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:12:09.940 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //div[@id='column-b']
+12:12:09.940 [Forwarding actions on session adad4c5b31b871a948e818f3ba1685d6 to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:12:10.231 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //div[@id='column-a']
+12:12:10.232 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:10.256 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //div[@id='column-a']
+12:12:10.256 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:10.274 [main] INFO  com.internet.tests.TestBase - Test result: PASSED dragAndDropTest
+12:12:10.274 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:13.813 [main] INFO  com.internet.tests.TestBase - Start test: checkBrokenImagesTest
+12:12:13.823 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'Broken Images')]
+12:12:13.824 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:13.853 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'Broken Images')]
+12:12:13.854 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.337 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.338 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.421 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.421 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.421 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.421 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.446 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.446 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.446 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.446 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.477 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.478 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.496 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.496 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.523 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.523 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.523 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.523 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.549 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.549 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.565 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.566 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.594 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.595 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.595 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.595 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.633 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.633 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.651 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.651 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.684 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.685 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.686 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.686 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.726 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.727 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.742 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: img
+12:12:14.743 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.772 [main] INFO  com.internet.utils.MyListener - List size is4
+12:12:14.773 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:14.776 [main] INFO  com.internet.tests.TestBase - Test result: PASSED checkBrokenImagesTest
+12:12:14.776 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:18.940 [main] INFO  com.internet.tests.TestBase - Start test: fileUploaderTest
+12:12:18.957 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'File Upload')]
+12:12:18.957 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:18.983 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'File Upload')]
+12:12:18.983 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:19.357 [main] INFO  com.internet.utils.MyListener - The locator will findBy.id: file-upload
+12:12:19.357 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:19.380 [main] INFO  com.internet.utils.MyListener - The locator isBy.id: file-upload
+12:12:19.380 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:19.426 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: #file-submit
+12:12:19.427 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:19.446 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: #file-submit
+12:12:19.447 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:20.103 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //h3[contains(text(),'File Uploaded!')]
+12:12:20.103 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:20.129 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //h3[contains(text(),'File Uploaded!')]
+12:12:20.129 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:20.146 [main] INFO  com.internet.tests.TestBase - Test result: PASSED fileUploaderTest
+12:12:20.147 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:23.853 [main] INFO  com.internet.tests.TestBase - Start test: redirectLinkTest
+12:12:23.861 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'Redirect Link')]
+12:12:23.861 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:23.887 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'Redirect Link')]
+12:12:23.888 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:24.246 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: #redirect
+12:12:24.246 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:24.267 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: #redirect
+12:12:24.268 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:24.708 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'here')]
+12:12:24.709 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:24.731 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'here')]
+12:12:24.731 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:26.450 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: a
+12:12:26.451 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:26.982 [main] INFO  com.internet.utils.MyListener - List size is74
+12:12:26.982 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:26.982 [main] INFO  com.internet.utils.MyListener - Befor fine elementsBy.cssSelector: a
+12:12:26.983 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:27.347 [main] INFO  com.internet.utils.MyListener - List size is74
+12:12:27.347 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:28.337 [main] INFO  com.internet.tests.TestBase - Test result: PASSED redirectLinkTest
+12:12:28.337 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:32.414 [main] INFO  com.internet.tests.TestBase - Start test: testMultipleWindows
+12:12:32.416 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: [href='/windows']
+12:12:32.417 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:32.452 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: [href='/windows']
+12:12:32.453 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:32.806 [main] INFO  com.internet.utils.MyListener - The locator will findBy.cssSelector: [href='/windows/new']
+12:12:32.806 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:32.835 [main] INFO  com.internet.utils.MyListener - The locator isBy.cssSelector: [href='/windows/new']
+12:12:32.835 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:32.983 [main] INFO  com.internet.utils.MyListener - The locator will findBy.tagName: h3
+12:12:32.983 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:33.102 [main] INFO  com.internet.utils.MyListener - The locator isBy.tagName: h3
+12:12:33.102 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:33.116 [main] INFO  com.internet.tests.TestBase - Test result: PASSED testMultipleWindows
+12:12:33.118 [main] INFO  com.internet.tests.TestBase - ************************************************************
+12:12:36.862 [main] INFO  com.internet.tests.TestBase - Start test: sliderTest
+12:12:36.879 [main] INFO  com.internet.utils.MyListener - The locator will findBy.xpath: //a[contains(text(),'Horizontal Slider')]
+12:12:36.879 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:36.905 [main] INFO  com.internet.utils.MyListener - The locator isBy.xpath: //a[contains(text(),'Horizontal Slider')]
+12:12:36.905 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:37.219 [Forwarding actions on session 19bd112f59c9a8231bcecda8684b0f21 to remote] INFO  com.internet.utils.MyListener - The locator will findBy.tagName: input
+12:12:37.219 [Forwarding actions on session 19bd112f59c9a8231bcecda8684b0f21 to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:12:37.252 [Forwarding actions on session 19bd112f59c9a8231bcecda8684b0f21 to remote] INFO  com.internet.utils.MyListener - The locator isBy.tagName: input
+12:12:37.252 [Forwarding actions on session 19bd112f59c9a8231bcecda8684b0f21 to remote] INFO  com.internet.utils.MyListener - *********************************************
+12:12:37.667 [main] INFO  com.internet.utils.MyListener - The locator will findBy.tagName: input
+12:12:37.668 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:37.708 [main] INFO  com.internet.utils.MyListener - The locator isBy.tagName: input
+12:12:37.708 [main] INFO  com.internet.utils.MyListener - *********************************************
+12:12:37.731 [main] INFO  com.internet.tests.TestBase - Test result: PASSED sliderTest
+12:12:37.732 [main] INFO  com.internet.tests.TestBase - ************************************************************

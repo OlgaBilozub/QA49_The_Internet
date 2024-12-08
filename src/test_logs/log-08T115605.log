@@ -1,0 +1,38 @@
+11:56:05.840 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\alona\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+11:56:11.935 [main] INFO  com.internet.tests.TestBase - Start test: dropDownTest
+11:56:11.985 [main] INFO  com.internet.utils.MyListener - The locator will find By.cssSelector: [href='/dropdown']
+11:56:11.987 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:12.072 [main] INFO  com.internet.utils.MyListener - The locator is By.cssSelector: [href='/dropdown']
+11:56:12.072 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:12.441 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:12.441 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:12.482 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:12.482 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:12.491 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:12.491 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:12.524 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:12.525 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:12.535 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:12.535 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:12.559 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:12.560 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:12.573 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:12.573 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:12.600 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:12.600 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:12.976 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:12.977 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:13.039 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:13.039 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:13.054 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:13.054 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:13.094 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:13.094 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:13.110 [main] INFO  com.internet.utils.MyListener - The locator will find By.id: dropdown
+11:56:13.110 [main] INFO  com.internet.utils.MyListener - ************************************
+11:56:13.146 [main] INFO  com.internet.utils.MyListener - The locator is By.id: dropdown
+11:56:13.146 [main] INFO  com.internet.utils.MyListener - ********************************
+11:56:13.393 [main] INFO  com.internet.tests.TestBase - Test result: PASSED dropDownTest
+11:56:13.394 [main] INFO  com.internet.tests.TestBase - ************************************************************

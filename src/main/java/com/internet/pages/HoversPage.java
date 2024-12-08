@@ -23,9 +23,11 @@ public class HoversPage extends HomePage {
         pause(1000);
         return this;
     }
+    @FindBy(css = "h5")
+    WebElement userName;
 
     public HoversPage verifyHover(String value) {
-        Assert.assertEquals(hover.getDomProperty("view profile"),value);
+        Assert.assertEquals(userName.getText(),"name: user1");
         return this;
     }
 }
