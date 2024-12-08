@@ -3,6 +3,7 @@ package com.internet.pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 import java.util.List;
 
@@ -36,8 +37,11 @@ public class BrokenImagesPage extends HomePage{
         }
         return this;
     }
+@FindBy(tagName = "img")
+WebDriver img;
 
     public BrokenImagesPage verifyImage(String imageURL) {
+        System.out.println("Error occurred");
         return this;
     }
 }

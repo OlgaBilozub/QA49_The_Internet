@@ -13,6 +13,7 @@ public class BrokenImagesTest extends TestBase{
     @Test
     public void checkBrokenImagesTest(){
         String imageURL = "broken images";
-        new BrokenImagesPage(driver).checkBrokenImages().verifyImage(imageURL);
+        new BrokenImagesPage(driver).checkBrokenImages()
+                .verifyImage(imageURL);
     }
 }
