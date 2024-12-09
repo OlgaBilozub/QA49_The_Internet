@@ -1,0 +1,15 @@
+com\internet\pages\BrokenImagesPage.class
+com\internet\pages\BasePage.class
+com\internet\pages\DropDownPage.class
+com\internet\config\ApplicationManager.class
+com\internet\utils\MyListener.class
+com\internet\pages\JavaAlertsPage.class
+com\internet\pages\DragAndDropPage.class
+com\internet\pages\HomePage.class
+com\internet\pages\HorizontalSliderPage.class
+com\internet\pages\MultipleWindowsPage.class
+com\internet\utils\DataProviders.class
+com\internet\pages\FramePage.class
+com\internet\pages\FileUploaderPage.class
+com\internet\pages\RedirectLinkPage.class
+com\internet\pages\HoversPage.class

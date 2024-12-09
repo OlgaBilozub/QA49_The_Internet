@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Internet" verbose="1">
+    <test name="Internet">
+        <classes>
+            <class name="com.internet.tests.HorizontalSliderTest"/>
+            <class name="com.internet.tests.BrokenImagesTest"/>
+
+        </classes>
+    </test>
+</suite>

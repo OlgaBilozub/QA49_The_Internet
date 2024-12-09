@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-09T19:07:51 CET" name="Internet" finished-at="2024-12-09T19:08:02 CET" duration-ms="11783">
+    <groups>
+    </groups>
+    <test started-at="2024-12-09T19:07:51 CET" name="Internet" finished-at="2024-12-09T19:08:02 CET" duration-ms="11783">
+      <class name="com.internet.tests.BrokenImagesTest">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internet.tests.BrokenImagesTest@2fd1433e]" started-at="2024-12-09T19:07:58 CET" name="init" finished-at="2024-12-09T19:08:01 CET" duration-ms="3161" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internet.tests.BrokenImagesTest.checkBrokenImagesTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internet.tests.BrokenImagesTest@2fd1433e]" started-at="2024-12-09T19:08:01 CET" name="precondition" finished-at="2024-12-09T19:08:01 CET" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="checkBrokenImagesTest()[pri:0, instance:com.internet.tests.BrokenImagesTest@2fd1433e]" started-at="2024-12-09T19:08:01 CET" name="checkBrokenImagesTest" finished-at="2024-12-09T19:08:02 CET" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBrokenImagesTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internet.tests.BrokenImagesTest@2fd1433e]" started-at="2024-12-09T19:08:02 CET" name="tearDown" finished-at="2024-12-09T19:08:02 CET" duration-ms="326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkBrokenImagesTest status=SUCCESS method=BrokenImagesTest.checkBrokenImagesTest()[pri:0, instance:com.internet.tests.BrokenImagesTest@2fd1433e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internet.tests.BrokenImagesTest -->
+      <class name="com.internet.tests.HorizontalSliderTest">
+        <test-method is-config="true" signature="init(java.lang.reflect.Method)[pri:0, instance:com.internet.tests.HorizontalSliderTest@19d481b]" started-at="2024-12-09T19:07:51 CET" name="init" finished-at="2024-12-09T19:07:56 CET" duration-ms="5680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.internet.tests.HorizontalSliderTest.sliderTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:com.internet.tests.HorizontalSliderTest@19d481b]" started-at="2024-12-09T19:07:56 CET" name="precondition" finished-at="2024-12-09T19:07:57 CET" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="sliderTest()[pri:0, instance:com.internet.tests.HorizontalSliderTest@19d481b]" started-at="2024-12-09T19:07:57 CET" name="sliderTest" finished-at="2024-12-09T19:07:57 CET" duration-ms="519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.internet.tests.HorizontalSliderTest@19d481b]" started-at="2024-12-09T19:07:57 CET" name="tearDown" finished-at="2024-12-09T19:07:58 CET" duration-ms="509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sliderTest status=SUCCESS method=HorizontalSliderTest.sliderTest()[pri:0, instance:com.internet.tests.HorizontalSliderTest@19d481b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internet.tests.HorizontalSliderTest -->
+    </test> <!-- Internet -->
+  </suite> <!-- Internet -->
+</testng-results>

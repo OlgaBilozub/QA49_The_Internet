@@ -14,7 +14,7 @@ public class HorizontalSliderTest extends TestBase{
     @Test
     public void sliderTest(){
         new HorizontalSliderPage(driver).moveSliderInHorizontalDirection()
-                .verifySliderValue("0");
+                .verifySliderValue("5");
     }
 }
 
